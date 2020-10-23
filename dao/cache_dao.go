@@ -9,9 +9,6 @@ package dao
 import (
 	"fmt"
 	"github.com/astaxie/beego"
-	"plist.jd.com/plistweb/cache"
-	ds "plist.jd.com/plistweb/datasources"
-	"plist.jd.com/plistweb/utils"
 	"reflect"
 	"sync"
 )

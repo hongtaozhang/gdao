@@ -9,7 +9,6 @@ package dao
 import (
 	"fmt"
 	"github.com/astaxie/beego/orm"
-	ds "plist.jd.com/plistweb/datasources"
 	"reflect"
 )
 
