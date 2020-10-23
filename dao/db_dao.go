@@ -9,6 +9,7 @@ package dao
 import (
 	"fmt"
 	"github.com/astaxie/beego/orm"
+	ds "gdao/datasources"
 	"reflect"
 )
 
